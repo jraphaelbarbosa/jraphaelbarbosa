@@ -6,6 +6,8 @@
 
 AI Engineer and Solutions Architect with 5+ years building software systems, data pipelines, and enterprise automation, specialized in productionizing deterministic Generative AI architectures, agentic workflows, and Work OS integrations.
 
+With a prior foundation of 17+ years in audio engineering and signal architecture, I bring a unique systems-thinking approach to debugging asynchronous data flows, preventing memory bottlenecks, and taming the non-deterministic nature of production AI models.
+
 ---
 
 ### 🛠️ Core Technology Stack
