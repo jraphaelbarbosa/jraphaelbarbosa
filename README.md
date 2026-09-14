@@ -1,6 +1,6 @@
 # Hi, I'm João Raphael Cunha 👋
 ### AI Solutions Architect & Staff AI Platform Engineer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoraphael)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cunha/)
 [![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelbarbosa)
 [![Architecture](https://img.shields.io/badge/Architecture-Pydantic%20v2%20%7C%20Pytest%20%7C%20FastAPI-blue?style=flat)](https://github.com/jraphaelbarbosa)
 
