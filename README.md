@@ -1,10 +1,10 @@
 # Hi, I'm João Raphael Cunha 👋
-### AI Solutions Architect & Staff AI Platform Engineer
+### AI Engineer & Solutions Architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cunha/)
 [![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelbarbosa)
 [![Architecture](https://img.shields.io/badge/Architecture-Pydantic%20v2%20%7C%20Pytest%20%7C%20FastAPI-blue?style=flat)](https://github.com/jraphaelbarbosa)
 
-Enterprise AI Platform Engineer and Solutions Architect with 17+ years of engineering foundations. Specialized in productionizing deterministic LLM systems, distributed agentic workflows, large-scale data pipelines, and enterprise Work OS integrations.
+AI Engineer and Solutions Architect with 5+ years building software systems, data pipelines, and enterprise automation, specialized in productionizing deterministic Generative AI architectures, agentic workflows, and Work OS integrations.
 
 ---
 
@@ -53,4 +53,4 @@ Enterprise AI Platform Engineer and Solutions Architect with 17+ years of engine
 - **Deterministic AI Guardrails:** Zero trust on raw LLM output; validation layers ensure production predictability.
 
 ---
-📍 Rio de Janeiro, Brazil • Open to Senior / Staff AI Solutions Architect & Platform Engineer Roles
+📍 Rio de Janeiro, Brazil • Open to Senior AI Engineer, AI Solutions Architect & AI Consultant Roles
