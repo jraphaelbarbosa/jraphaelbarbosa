@@ -1,6 +1,7 @@
 # Hi, I'm João Raphael Cunha 👋
 ### AI Engineer & Solutions Architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cunha/)
+[![Email](https://img.shields.io/badge/Email-jraphaelcunha42%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jraphaelcunha42@gmail.com)
 [![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelbarbosa)
 [![Architecture](https://img.shields.io/badge/Architecture-Pydantic%20v2%20%7C%20Pytest%20%7C%20FastAPI-blue?style=flat)](https://github.com/jraphaelbarbosa)
 
@@ -55,4 +56,8 @@ With a prior foundation of 17+ years in audio engineering and signal architectur
 - **Deterministic AI Guardrails:** Zero trust on raw LLM output; validation layers ensure production predictability.
 
 ---
-📍 Rio de Janeiro, Brazil • Open to Senior AI Engineer, AI Solutions Architect & AI Consultant Roles
+
+### 📬 Contact & Open Opportunities
+- **Email:** [jraphaelcunha42@gmail.com](mailto:jraphaelcunha42@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joão-raphael-cunha](https://www.linkedin.com/in/jo%C3%A3o-raphael-cunha/)
+- **Location:** Rio de Janeiro, Brazil • Open to Remote Worldwide (Senior AI Engineer, AI Solutions Architect & AI Consultant Roles)
