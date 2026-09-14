@@ -1,4 +1,4 @@
-﻿# Hi, I'm João Raphael Cunha 👋
+# Hi, I'm João Raphael Cunha 👋
 ### AI Solutions Architect & Staff AI Platform Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoraphael)
 [![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelbarbosa)
@@ -22,7 +22,7 @@ Enterprise AI Platform Engineer and Solutions Architect with 17+ years of engine
 
 ### 🚀 Flagship Architecture & Production Systems
 
-#### 1. [QualityOps-AI-Agent](https://github.com/jraphaelbarbosa/QualityOps-AI-Agent)
+#### 1. [qualityops-ai-agent](https://github.com/jraphaelbarbosa/qualityops-ai-agent)
 > **Autonomous AI Agent for Support QA & Compliance Auditing**
 > - Deterministic PII guardrails masking credit cards, CPFs, and emails prior to inference.
 > - Strict Pydantic v2 validation contracts and automated Pytest test suite with coverage.
@@ -34,7 +34,7 @@ Enterprise AI Platform Engineer and Solutions Architect with 17+ years of engine
 > - High-scale memory streaming buffer preventing OOM on 150,000+ comment datasets.
 > - Automated dispatch integration with Supabase, n8n workflows, and Monday.com Work OS boards.
 
-#### 3. [AI_Real_Estate_Pipeline](https://github.com/jraphaelbarbosa/AI_Real_Estate_Pipeline)
+#### 3. [ai-real-estate-pipeline](https://github.com/jraphaelbarbosa/ai-real-estate-pipeline)
 > **Enterprise Real Estate Underwriting & GIS Enrichment Agent**
 > - End-to-end property underwriting agent parsing financial unstructured data into strict schema contracts.
 > - Automated GIS spatial geocoding with Nominatim and deep Monday.com Work OS board synchronization.
