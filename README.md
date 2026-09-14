@@ -2,8 +2,8 @@
 ### AI Engineer & Solutions Architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cunha/)
 [![Email](https://img.shields.io/badge/Email-jraphaelcunha42%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jraphaelcunha42@gmail.com)
-[![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelbarbosa)
-[![Architecture](https://img.shields.io/badge/Architecture-Pydantic%20v2%20%7C%20Pytest%20%7C%20FastAPI-blue?style=flat)](https://github.com/jraphaelbarbosa)
+[![GitHub CI Gate](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=flat&logo=githubactions&logoColor=white)](https://github.com/jraphaelcunha)
+[![Architecture](https://img.shields.io/badge/Architecture-Pydantic%20v2%20%7C%20Pytest%20%7C%20FastAPI-blue?style=flat)](https://github.com/jraphaelcunha)
 
 AI Engineer and Solutions Architect with 5+ years building software systems, data pipelines, and enterprise automation, specialized in productionizing deterministic Generative AI architectures, agentic workflows, and Work OS integrations.
 
@@ -25,24 +25,24 @@ With a prior foundation of 17+ years in audio engineering and signal architectur
 
 ### 🚀 Flagship Architecture & Production Systems
 
-#### 1. [qualityops-ai-agent](https://github.com/jraphaelbarbosa/qualityops-ai-agent)
+#### 1. [qualityops-ai-agent](https://github.com/jraphaelcunha/qualityops-ai-agent)
 > **Autonomous AI Agent for Support QA & Compliance Auditing**
 > - Deterministic PII guardrails masking credit cards, CPFs, and emails prior to inference.
 > - Strict Pydantic v2 validation contracts and automated Pytest test suite with coverage.
 > - GitHub Actions CI/CD quality gate with zero-warning lint enforcement.
 
-#### 2. [trend-intelligence-engine](https://github.com/jraphaelbarbosa/trend-intelligence-engine)
+#### 2. [trend-intelligence-engine](https://github.com/jraphaelcunha/trend-intelligence-engine)
 > **High-Throughput Semantic Sentiment & Trend Intelligence Engine**
 > - Multi-source intelligence pipeline ingesting raw social feeds and generating semantic insights via Gemini AI.
 > - High-scale memory streaming buffer preventing OOM on 150,000+ comment datasets.
 > - Automated dispatch integration with Supabase, n8n workflows, and Monday.com Work OS boards.
 
-#### 3. [ai-real-estate-pipeline](https://github.com/jraphaelbarbosa/ai-real-estate-pipeline)
+#### 3. [ai-real-estate-pipeline](https://github.com/jraphaelcunha/ai-real-estate-pipeline)
 > **Enterprise Real Estate Underwriting & GIS Enrichment Agent**
 > - End-to-end property underwriting agent parsing financial unstructured data into strict schema contracts.
 > - Automated GIS spatial geocoding with Nominatim and deep Monday.com Work OS board synchronization.
 
-#### 4. [beatmatch-ai-automation-hub](https://github.com/jraphaelbarbosa/beatmatch-ai-automation-hub)
+#### 4. [beatmatch-ai-automation-hub](https://github.com/jraphaelcunha/beatmatch-ai-automation-hub)
 > **Distributed Audio Metadata Enrichment & Multi-Source Reconciliation Hub**
 > - Ingestion and reconciliation hub handling 54,000+ audio and artist records across Spotify and YouTube.
 > - Heuristic anti-spam filtering (SIPA engine) with automated schema verification and CI quality gates.
