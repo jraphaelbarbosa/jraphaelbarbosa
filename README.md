@@ -43,9 +43,9 @@ With a prior foundation of 17+ years in audio engineering and signal architectur
 > - Automated GIS spatial geocoding with Nominatim and deep Monday.com Work OS board synchronization.
 
 #### 4. [beatmatch-ai-automation-hub](https://github.com/jraphaelcunha/beatmatch-ai-automation-hub)
-> **Distributed Audio Metadata Enrichment & Multi-Source Reconciliation Hub**
-> - Ingestion and reconciliation hub handling 54,000+ audio and artist records across Spotify and YouTube.
-> - Heuristic anti-spam filtering (SIPA engine) with automated schema verification and CI quality gates.
+> **Autonomous B2B Lead Intelligence Pipeline for Music Producers & Audio Studios**
+> - Targeted B2B pipeline prospecting genre-compatible independent artists (<8k monthly listeners) as qualified leads for beat licensing and audio engineering services (mixing & mastering).
+> - Ingestion and heuristic reconciliation hub (SIPA engine) managing 54,000+ records in Supabase PostgreSQL with 0% memory leakage and automated Monday.com CRM synchronization.
 
 ---
 
